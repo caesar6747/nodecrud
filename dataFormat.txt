@@ -1,0 +1,3 @@
+dbname : dbcrud
+dbtable : user, tiket
+tiket format : id(varchar), nama(varchar), layanan(varchar), tgl(dateandtime)

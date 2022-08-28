@@ -1,0 +1,47 @@
+.form-control{
+    width: 100px;
+}
+
+button{
+    background-color: aquamarine;
+}
+
+.input-group{
+    width:80%;
+    left: 10%;
+}
+
+.btn-warning{
+    background-color: aqua;
+    border-color: aqua;
+}
+
+.thead-dark #theadcolor{
+    background-color: aquamarine;
+}
+
+.tablecontainer{
+    position: relative;
+    top: 50px;
+    width: 50%;
+    min-width: 500px;
+    left:25%;  
+}
+
+.buttoncontainer{
+    position: relative;
+    width: 100px;
+}
+
+form #deletebutton{
+    position: relative;
+    background-color: aqua;
+    left: 0px;
+}
+.buttoncontainer #editbutton{
+    position: absolute;
+    left: 0px;
+    color: aqua;
+}
+
+
